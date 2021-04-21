@@ -8,7 +8,7 @@ body {
     font-family: Quicksand;
 }
 
-.image_block p  {
+.image_block a  {
     width: 100%;
     text-align: center;
     position: absolute;
